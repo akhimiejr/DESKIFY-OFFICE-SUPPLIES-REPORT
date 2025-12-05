@@ -31,9 +31,9 @@ will enable faster, data-driven decisions.
 • Discount: Discount applied to the order, as a percentage or amount.-
 • Ship Mode: Shipping method selected for the order (e.g., express,
 regular or delivery truck).-
-• Profit: Profit earned from the order after costs.
-• Unit Price: Price per unit of the item sold.
-• Shipping Cost: Cost associated with shipping the order.
+• Profit: Profit earned from the order after costs.|
+• Unit Price: Price per unit of the item sold.|
+• Shipping Cost: Cost associated with shipping the order.|
 • CustID: Unique identifier for each customer.
 • Customer Name: name of the customer.
 • Customer Segment: Customer category (e.g.,
