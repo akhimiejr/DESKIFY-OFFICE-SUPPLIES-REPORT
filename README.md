@@ -24,13 +24,13 @@ efficiency.
 Finally, Build an interactive dashboards that
 will enable faster, data-driven decisions. 
 # 1.3 Data Description
-• Order ID: Unique identifier for each order.
-• Order Date: Date when the order was placed.
-• Order Priority: Priority level of the order (e.g., high, medium, low).
-• Order Quantity: Quantity of items in the order.
-• Discount: Discount applied to the order, as a percentage or amount.
+• Order ID: Unique identifier for each order.-
+• Order Date: Date when the order was placed.-
+• Order Priority: Priority level of the order (e.g., high, medium, low).-
+• Order Quantity: Quantity of items in the order.-
+• Discount: Discount applied to the order, as a percentage or amount.-
 • Ship Mode: Shipping method selected for the order (e.g., express,
-regular or delivery truck).
+regular or delivery truck).-
 • Profit: Profit earned from the order after costs.
 • Unit Price: Price per unit of the item sold.
 • Shipping Cost: Cost associated with shipping the order.
