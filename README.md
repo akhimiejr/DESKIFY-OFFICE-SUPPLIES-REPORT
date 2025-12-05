@@ -86,7 +86,7 @@ Seasonal trends reveal noticeable fluctuations in monthly performance, with Octo
 
 <img width="790" height="228" alt="Screenshot 2025-12-05 223431" src="https://github.com/user-attachments/assets/5576fd89-5c1c-4b48-8579-4a81be051f1e" />
 
-
+## 3. REPORTS
 
 
 
