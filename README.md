@@ -31,21 +31,21 @@ will enable faster, data-driven decisions.
 • Discount: Discount applied to the order, as a percentage or amount.-
 • Ship Mode: Shipping method selected for the order (e.g., express,
 regular or delivery truck).-
-• Profit: Profit earned from the order after costs.|
-• Unit Price: Price per unit of the item sold.|
-• Shipping Cost: Cost associated with shipping the order.|
-• CustID: Unique identifier for each customer.
-• Customer Name: name of the customer.
+• Profit: Profit earned from the order after costs.-
+• Unit Price: Price per unit of the item sold.-
+• Shipping Cost: Cost associated with shipping the order.
+• CustID: Unique identifier for each customer.-
+• Customer Name: name of the customer.-
 • Customer Segment: Customer category (e.g.,
-consumer, corporate, Home office, small business).
-• Country: Customer's country.
-• City: Customer's city.
-• State: Customer's state or province.
-• Postal Code: Customer's postal code.
-• Region: Geographic region of the customer.
-• Product ID: Unique identifier for each product.
+consumer, corporate, Home office, small business).-
+• Country: Customer's country.-
+• City: Customer's city.-
+• State: Customer's state or province.-
+• Postal Code: Customer's postal code.-
+• Region: Geographic region of the customer.-
+• Product ID: Unique identifier for each product.-
 • Product Category: Broad category of the product
-(e.g., furniture, office supplies).
+(e.g., furniture, office supplies).-
 • Product Sub-Category: More specific category
-within the product category.
-• Product Name: Name of the product
+within the product category.-
+• Product Name: Name of the product-
