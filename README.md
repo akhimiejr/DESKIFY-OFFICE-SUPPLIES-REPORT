@@ -81,6 +81,12 @@ Product category analysis shows that profitability is largely driven by Furnitur
 
 <img width="405" height="475" alt="Screenshot 2025-12-05 221155" src="https://github.com/user-attachments/assets/da125976-80e5-4b32-8cac-25c88f3f5047" />
 
+## 2.2.4 Seasonal trends
+Seasonal trends reveal noticeable fluctuations in monthly performance, with October (177K) and  January (174K) as the highest-earning months, and August (81K) the weakest. These fluctuations likely correlate with procurement cycles, budgeting periods, and business purchasing behaviors rather than consumer-driven trends. This presents a strategic opportunity to forecast demand cycles more precisely, align inventory availability, and deploy promotional campaigns during slower months to balance demand curves.
+
+<img width="790" height="228" alt="Screenshot 2025-12-05 223431" src="https://github.com/user-attachments/assets/5576fd89-5c1c-4b48-8579-4a81be051f1e" />
+
+
 
 
 
