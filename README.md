@@ -67,6 +67,21 @@ The data model represents a well-structured star schema centered on a single fac
 Customer profitability analysis indicates a heavy reliance on a small set of high-value buyers, including Emily Phan (34.01K), Deborah Brumfield (31.12K), and Grant Carroll (27.98K). While these customers drive significant profits, the lack of diversification introduces churn risk, meaning that the departure of only a few key clients could meaningfully impact financial performance. Segment-level analysis shows Corporate customers are the highest contributors at 527.1K, yet Home Office, Consumer, and Small Business segments together represent a substantial share, demonstrating that Deskify serves both institutional and individual markets and would benefit from tailored engagement strategies across all buyer types.
 
 
-<img width="711" height="477" alt="Screenshot 2025-12-05 215521" src="https://github.com/user-attachments/assets/d6ee7d11-b3f4-4981-bb92-45ae53eb90be" />
+<img width="370" height="472" alt="Screenshot 2025-12-05 220153" src="https://github.com/user-attachments/assets/3a1ee253-ab48-4ddb-a84d-062044dfa9be" />
+
+
+## 2.2.3 Regional Performance
+Regional performance is uneven, with profitability concentrated in the Northwest region at 569,398, followed by Nunavut (340,729) and the Atlantic region (225,224), while regions such as Quebec (14,422) and Yukon (6,418) are severely underpenetrated. This pattern suggests a strong foothold in select regions but also reveals untapped potential in underperforming markets. Targeted geographic expansion, price localization, or logistics restructuring could increase market penetration and reduce geographic revenue dependency.
+
+
+<img width="335" height="473" alt="Screenshot 2025-12-05 220336" src="https://github.com/user-attachments/assets/f283b91e-28ee-4186-aebe-6faa18f05c2d" />
+
+## 2.2.4 Product Category Analysis
+Product category analysis shows that profitability is largely driven by Furniture, which contributes 985.36K (64.73% of total profit). Office Supplies generate 331.03K (21.74%), while Technology contributes 205.95K (13.53%). This performance imbalance is noteworthy because technology products are typically expected to deliver higher margins, signaling potential strategic misalignment in pricing, sourcing, or product mix. Sub-category analysis reinforces this point, with binders (260K), paper (242K), and furnishings (153K) performing strongly, while the copier category generates a loss of -16K. The loss is likely attributable to warranty obligations, aggressive discounting, or disproportionately high handling and delivery costs.
+
+<img width="405" height="475" alt="Screenshot 2025-12-05 221155" src="https://github.com/user-attachments/assets/da125976-80e5-4b32-8cac-25c88f3f5047" />
+
+
+
 
 
