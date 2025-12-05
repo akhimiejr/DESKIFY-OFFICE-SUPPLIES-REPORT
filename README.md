@@ -65,6 +65,8 @@ The data model represents a well-structured star schema centered on a single fac
 <img width="1388" height="645" alt="Screenshot 2025-12-05 212722" src="https://github.com/user-attachments/assets/eaa7621e-8a98-431a-bdd8-c6cfcad551a8" />
 ## 2.2.2 Customer Profitability Analysis
 Customer profitability analysis indicates a heavy reliance on a small set of high-value buyers, including Emily Phan (34.01K), Deborah Brumfield (31.12K), and Grant Carroll (27.98K). While these customers drive significant profits, the lack of diversification introduces churn risk, meaning that the departure of only a few key clients could meaningfully impact financial performance. Segment-level analysis shows Corporate customers are the highest contributors at 527.1K, yet Home Office, Consumer, and Small Business segments together represent a substantial share, demonstrating that Deskify serves both institutional and individual markets and would benefit from tailored engagement strategies across all buyer types.
+
+
 <img width="711" height="477" alt="Screenshot 2025-12-05 215521" src="https://github.com/user-attachments/assets/d6ee7d11-b3f4-4981-bb92-45ae53eb90be" />
 
 
