@@ -24,22 +24,22 @@ efficiency.
 Finally, Build an interactive dashboards that
 will enable faster, data-driven decisions. 
 # 1.3 Data Description
-• Order ID: Unique identifier for each order.-
-• Order Date: Date when the order was placed.-
-• Order Priority: Priority level of the order (e.g., high, medium, low).-
-• Order Quantity: Quantity of items in the order.-
-• Discount: Discount applied to the order, as a percentage or amount.-
+• Order ID: Unique identifier for each order.__
+• Order Date: Date when the order was placed.__
+• Order Priority: Priority level of the order (e.g., high, medium, low).__
+• Order Quantity: Quantity of items in the order.__
+• Discount: Discount applied to the order, as a percentage or amount.__
 • Ship Mode: Shipping method selected for the order (e.g., express,
-regular or delivery truck).-
-• Profit: Profit earned from the order after costs.-
-• Unit Price: Price per unit of the item sold.-
+regular or delivery truck).__
+• Profit: Profit earned from the order after costs.__
+• Unit Price: Price per unit of the item sold.__
 • Shipping Cost: Cost associated with shipping the order.
-• CustID: Unique identifier for each customer.-
-• Customer Name: name of the customer.-
+• CustID: Unique identifier for each customer.__
+• Customer Name: name of the customer.__
 • Customer Segment: Customer category (e.g.,
-consumer, corporate, Home office, small business).-
-• Country: Customer's country.-
-• City: Customer's city.-
+consumer, corporate, Home office, small business).__
+• Country: Customer's country.__
+• City: Customer's city.__
 • State: Customer's state or province.__
 • Postal Code: Customer's postal code.__
 • Region: Geographic region of the customer.__
