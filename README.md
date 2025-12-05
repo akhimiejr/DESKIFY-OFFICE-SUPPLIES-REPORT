@@ -40,12 +40,12 @@ regular or delivery truck).-
 consumer, corporate, Home office, small business).-
 • Country: Customer's country.-
 • City: Customer's city.-
-• State: Customer's state or province.-
-• Postal Code: Customer's postal code.-
-• Region: Geographic region of the customer.-
-• Product ID: Unique identifier for each product.-
+• State: Customer's state or province.__
+• Postal Code: Customer's postal code.__
+• Region: Geographic region of the customer.__
+• Product ID: Unique identifier for each product.__
 • Product Category: Broad category of the product
-(e.g., furniture, office supplies).-
+(e.g., furniture, office supplies).__
 • Product Sub-Category: More specific category
-within the product category.-
-• Product Name: Name of the product-
+within the product category.__
+• Product Name: Name of the product.
